@@ -2,7 +2,8 @@
 
 This is a really awesome website
 
-New lines
+## Repository Purpose
 
-Line 1
-Line 2
+This will be a change that conflicts
+with whatever is on the remote side.
+This was edited locally.
