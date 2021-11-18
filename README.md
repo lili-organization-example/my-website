@@ -2,7 +2,6 @@
 
 This is a really awesome website
 
-New lines
+## Purpose
 
-Line 1
-Line 2
+This file is just a readme file.
